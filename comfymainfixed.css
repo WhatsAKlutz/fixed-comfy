@@ -788,9 +788,10 @@
 :root .userPopout-2j1gM4 .body-2wLx-E {
   padding: 0 !important;
 }
-:root .userPopout-2j1gM4 .body-2wLx-E .customStatus-3XAoF9 {
-  padding: 0 16px 16px 16px;
-  margin: 0;
+:root .customStatus-3XAoF9 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
 :root .userPopout-2j1gM4 .body-2wLx-E .bodyInnerWrapper-2bQs1k {
   padding: 16px 16px 0 16px;
