@@ -790,13 +790,13 @@
 }
 :root .userPopout-2j1gM4 .body-2wLx-E .customStatus-3XAoF9, :root .userPopout-2j1gM4 .body-2wLx-E .aboutMeSection-PUghFQ {
   padding: 0px 16px 16px 16px;
-  margin: 16px;
+  margin: 0px;
 }
 :root .userPopout-2j1gM4 .body-2wLx-E .divider-1wtgZ3 {
   display: none;
 }
 :root .userPopout-2j1gM4 .body-2wLx-E .bodyInnerWrapper-2bQs1k {
-  padding: 16px 16px 0 16px;
+  padding: 16px 16px 16px 16px;
 }
 :root .userPopout-2j1gM4 .body-2wLx-E .bodyInnerWrapper-2bQs1k .activity-1gTu-L {
   padding: 16px;
