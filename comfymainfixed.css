@@ -789,8 +789,8 @@
   padding: 0 !important;
 }
 :root .userPopout-2j1gM4 .body-2wLx-E .customStatus-3XAoF9, :root .userPopout-2j1gM4 .body-2wLx-E .aboutMeSection-PUghFQ {
-  padding: 0px 16px 16px 16px;
-  margin: 0px;
+  padding: 0 16px 16px 16px;
+  margin: 0;
 }
 :root .userPopout-2j1gM4 .body-2wLx-E .divider-1wtgZ3 {
   display: none;
@@ -1105,8 +1105,8 @@
 :root .root-8LYsGj .topSection-13QKHs > header .customStatusActivity-WKWGD- .customStatusText-_4TbWr .customStatus-kFfkj5 {
   display: flex;
   flex-direction: column;
-  align-items: left;
-  gap: 0px;
+  align-items: center;
+  gap: 15px;
   color: white;
   text-align: center;
 }
