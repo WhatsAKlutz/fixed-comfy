@@ -788,9 +788,13 @@
 :root .userPopout-2j1gM4 .body-2wLx-E {
   padding: 0 !important;
 }
-:root .userPopout-2j1gM4 .body-2wLx-E .customStatus-3XAoF9, :root .userPopout-2j1gM4 .body-2wLx-E .aboutMeSection-PUghFQ {
+:root .userPopout-2j1gM4 .body-2wLx-E .customStatus-3XAoF9 {
   padding: 0 16px 16px 16px;
   margin: 0;
+}
+:root .userInfo-regn9W rect.pointerEvents-9SZWKj {
+    x: 66 !important;
+    y: 66 !important;
 }
 :root .userPopout-2j1gM4 .body-2wLx-E .divider-1wtgZ3 {
   display: none;
