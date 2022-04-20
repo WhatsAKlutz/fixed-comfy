@@ -792,12 +792,13 @@
   padding: 0 16px 16px 16px;
   margin: 0;
 }
-:root .userInfo-regn9W rect.pointerEvents-9SZWKj {
-    x: 66 !important;
-    y: 66 !important;
-}
-:root .userPopout-2j1gM4 .body-2wLx-E .divider-1wtgZ3 {
-  display: none;
+:root .userPopout-2j1gM4 .body-2wLx-E .aboutMeSection-PUghFQ {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0px;
+  color: white;
+  text-align: center;
 }
 :root .userPopout-2j1gM4 .body-2wLx-E .bodyInnerWrapper-2bQs1k {
   padding: 16px 16px 0 16px;
